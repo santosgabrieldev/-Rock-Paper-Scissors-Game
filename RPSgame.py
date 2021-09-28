@@ -65,7 +65,11 @@ else:
     print("Computer Wins!")
 
 '''
+Notes:
 paper wins rock
 rock wins scissors
 scissors wins paper
+
+made by Gabriel Santos ☕
+GitHub: santosgabrieldev (https://github.com/santosgabrieldev)
 '''
