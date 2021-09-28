@@ -54,15 +54,15 @@ if computers_choice == 2:
 
 #Win/Lose/Tie Conditional
 if user_choice == 0 and computers_choice == 2:
-    print("You Win")
+    print("You Win!")
 elif user_choice == 1 and computers_choice == 0:
-    print("You Win")
+    print("You Win!")
 elif user_choice == 2 and computers_choice == 1:
-    print("You Win")
+    print("You Win!")
 elif user_choice == computers_choice:
-    print("Tie")
+    print("Tie!")
 else: 
-    print("You Lose")
+    print("Computer Wins!")
 
 '''
 paper wins rock
